@@ -1,9 +1,9 @@
 name,ring,quadrant,isNew,description
+Robotframework,adopt,Tool,true,"something3"
+Cypress,poc,Tool,true,"something3"
+BDD,investigate,Frameworks,false,"somethin2g"
 Performance Testing,hold,Technique,false,"something1"
 Security Testing,hold,Technique,false,"something1"
-BDD,investigate,Frameworks,false,"somethin2g"
-Robotframework,adopt,Tool,true,"something3"
 Docker,hold,Platforms,false,"something4"
 HyperV,hold,Platforms,false,"something4"
 VirtualBox,hold,Platforms,false,"something4"
-Cypress,poc,Tool,true,"something3"
