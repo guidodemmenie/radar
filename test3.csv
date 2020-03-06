@@ -1,5 +1,9 @@
 name,ring,quadrant,isNew,description
-test1,ring1,quad1,false,"something1"
-test2,ring2,quad2,false,"somethin2g"
-test3,ring3,quad3,true,"something3"
-test4,ring4,quad4,false,"something4"
+Performance Testing,hold,Technique,false,"something1"
+Security Testing,hold,Technique,false,"something1"
+BDD,investigate,Frameworks,false,"somethin2g"
+Robotframework,adopt,Tool,true,"something3"
+Docker,hold,Platforms,false,"something4"
+HyperV,hold,Platforms,false,"something4"
+VirtualBox,hold,Platforms,false,"something4"
+Cypress,poc,Tool,true,"something3"
